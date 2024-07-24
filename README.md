@@ -1,15 +1,17 @@
-# ✌🏼
-### Full-Stack Developer and UI/UX Designer (JavaScript, React.js, Python, Django, Git, Postgres) with 10+ years of experience in the tech industry through various roles.
+## Hi! ✌🏼
+#### Full-Stack Developer (JavaScript, React.js, Python, Django, Git, Postgres) with 10+ years of experience in the tech industry through various roles.
 
-### Skills:
-Javascript, HTML, CSS, React, React, Router, Redux, Styled Components, SQL, API, Python, Django, Git, ORM, SASS, AUTH, WordPress, Postgres
+### 👉 Skills:
+Javascript, React, React, Router, Redux, Styled Components, Python, Django, Postgres, ORM, SQL, HTML, CSS, SASS, API, REST, Git, AUTH, WordPress
 
-### Current Stack:
+### ❤️ Current Stack:
 - React
 - Django
 - Postgres
 
- ### Links:
+ ### 👤 Links:
 - [LinkedIn](https://www.linkedin.com/in/web-fullstack/)
 - [Gitlab](https://gitlab.propulsion-home.ch/alexander)
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderstiehr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="alexanderstiehr's GitHub Stats" />
