@@ -15,4 +15,5 @@ Javascript, React, React, Router, Redux, Styled Components, Python, Django, Post
 - [PONY DB Schemas](https://editor.ponyorm.com/user/alstorx)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderstiehr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="alexanderstiehr's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderstoehr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="alexanderstoehr's GitHub Stats" />
+
