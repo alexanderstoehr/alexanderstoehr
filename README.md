@@ -16,4 +16,5 @@ Javascript, React, React, Router, Redux, Styled Components, Python, Django, Post
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderstoehr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="alexanderstoehr's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexanderstoehr&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_rank=true&custom_title=Github%20Stats" alt="GitHub Stats" />
 
