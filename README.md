@@ -11,7 +11,6 @@ Javascript, React, React, Router, Redux, Styled Components, Python, Django, Post
 
  ### 👤 Links:
 - [LinkedIn](https://www.linkedin.com/in/web-fullstack/)
-- [Gitlab](https://gitlab.propulsion-home.ch/alexander)
 - [PONY DB Schemas](https://editor.ponyorm.com/user/alstorx)
 
 
