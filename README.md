@@ -16,3 +16,5 @@ Javascript, React, React, Router, Redux, Styled Components, Python, Django, Post
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderstoehr&show_icons=true&line_height=27&hide_rank=true&hide_border=true&count_private=true&title_color=ffffff&custom_title=GitHub%20Stats&text_color=c9cacc&icon_color=65a4b6&bg_color=00000000)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderstoehr&hide_border=true&hide=procfile,tex&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=65a4b6&bg_color=00000000)
+
+<!-- [![Alexander's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexanderstoehr&theme=high-contrast&custom_title=Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
